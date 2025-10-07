@@ -1,0 +1,27 @@
+# Core data science libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Visualization libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Machine learning models
+xgboost>=1.6.0
+lightgbm>=3.3.0
+
+# Model interpretability
+shap>=0.41.0
+
+# Web app framework (optional)
+streamlit>=1.12.0
+
+# Jupyter notebook
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Additional utilities
+joblib>=1.1.0
+imbalanced-learn>=0.9.0

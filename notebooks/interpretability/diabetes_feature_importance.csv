@@ -1,0 +1,16 @@
+feature,importance
+glucose_concentration,0.5871679
+bmi,0.051855274
+insulin_bmi_interaction,0.051103648
+num_pregnant,0.043048967
+blood_pressure,0.041823845
+diabetes_pedigree,0.041135002
+skin_thickness,0.039772153
+age_glucose_interaction,0.039673593
+insulin,0.035577424
+age,0.03532337
+glucose_bmi_interaction,0.03351871
+age_risk,0.0
+bmi_risk,0.0
+bp_risk,0.0
+diabetes_risk_score,0.0
